@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">To Do List Simples</string>
+
+    <string name="fazer_trabalho">Fezer trabalho de Android ás 15h</string>
+    <string name="passear_com_dog">Passer com o Jack as 19h</string>
+    <string name="academia">Malhar as 9h</string>
+    <string name="fazer_as_compras">Fazer as compras no dia 3 do mês</string>
+    <string name="pagar_internet">Pagar internet dia 15</string>
+    <string name="aniversario">Aniversário do fulano dia 25</string>
+    <string name="encontro_com_namorada">Encontro com a morena dia 16</string>
+    <string name="pagar_energia">Pagar energia dia 30</string>
+    <string name="pagar_agua">Pagar água dia 29</string>
+
+
+</resources>
